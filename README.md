@@ -13,7 +13,7 @@
 
 >Api проекта для мобильных приложений
 
->Тестирование кода онлайн(php+mysql+js+regex)
+>Тестирование кода онлайн `php+mysql+js+regex `
 
 >Лист To-Do, постановка задач и их отслеживание
 
@@ -33,7 +33,6 @@
 * Json, jQuery, Bootstrap, Google Docs, Google Maps, Symfony 2
 * Doctrine ORM, Maria DB, Mysql, Composer
 * Git, Github
-* 
 
 ## Необходимая информация
 
