@@ -38,6 +38,7 @@
 
 ## Необходимая информация
 
+* http://php.net/
 * http://git-scm.com/book/ru
 * http://www.hetzner.de/en/
 * https://github.com/avalanche123/symfony-docs-ru/tree/master/book
