@@ -54,6 +54,7 @@
 * http://symfony-gu.ru/documentation/ru/html/index.html
 * http://yuml.me/diagram/scruffy/class/samples
 * http://firebug.ru/
+* http://validator.w3.org/
 
 
 
